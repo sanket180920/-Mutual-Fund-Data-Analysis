@@ -141,3 +141,29 @@ The project uses 10 datasets:
 
 ## Author
 Sanket Jadhav
+
+
+## Exploratory Data Analysis (EDA)
+
+Performed detailed EDA on 40 Mutual Fund schemes covering 2022–2026.
+
+### Key Analysis
+- NAV Trend Analysis
+- AUM Growth by Fund House
+- Monthly SIP Inflow Trends
+- Category-wise Investment Analysis
+- Investor Age and Gender Distribution
+- State-wise Investment Analysis
+- Folio Count Growth
+- Sector-wise Portfolio Allocation
+- Risk Category Distribution
+- NAV Return Correlation
+
+### Visualizations
+Created 22 visualizations using Python, Pandas, Matplotlib, Seaborn and Plotly.
+
+### Notebook
+[View EDA Analysis Notebook](Notebooks/EDA_Analysis.ipynb)
+
+### Charts
+All generated charts are available in the `charts/` directory.
